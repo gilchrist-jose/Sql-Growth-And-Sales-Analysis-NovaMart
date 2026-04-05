@@ -115,11 +115,6 @@ Builds monthly net revenue per store then uses LAG to calculate the month-on-mon
 ## Files
 
 ```
-|
-├── stores.csv
-├── products.csv
-├── customers.csv
-├── sales.csv
 └── solution_script.sql
 ```
 
