@@ -35,15 +35,6 @@ CREATE TABLE sales (
 	sale_date DATE NOT NULL
 );
 
-
-
-
-
-
-
-
-
-
 ---- What are the month-on-month sales growth rates per store? ----
 
 
